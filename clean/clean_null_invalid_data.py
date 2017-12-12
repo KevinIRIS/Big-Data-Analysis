@@ -10,7 +10,7 @@ from StringIO import StringIO
 #filter if offense description is ''  or key code is ''
 #filter if start,end date and time are ''
 #filter if borough or precint is ''
-indices = (0,6,7,13,14)
+indices = (0,6,7,14)
 def filter_file(line):
     for index in indices:
         if line[index] == 'null' or line[index] == "invalid":
