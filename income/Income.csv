@@ -1,0 +1,41 @@
+Borough,year,income
+Staten Island,2016,32678
+Staten Island,2015,32041
+Staten Island,2014,32091
+Staten Island,2013,31823
+Staten Island,2012,31537
+Staten Island,2011,31276
+Staten Island,2010,30843
+Staten Island,2009,30603
+Bronx,2016,18896
+Bronx,2015,18456
+Bronx,2014,18269
+Bronx,2013,18171
+Bronx,2012,18048
+Bronx,2011,17992
+Bronx,2010,17575
+Bronx,2009,17301
+Queens,2016,27631
+Queens,2015,26876
+Queens,2014,26580
+Queens,2013,26495
+Queens,2012,26373
+Queens,2011,26234
+Queens,2010,25553
+Queens,2009,25268
+Manhattan,2016,66522
+Manhattan,2015,64993
+Manhattan,2014,63610
+Manhattan,2013,62498
+Manhattan,2012,61951
+Manhattan,2011,61290
+Manhattan,2010,59149
+Manhattan,2009,60047
+Brooklyn,2016,28134
+Brooklyn,2015,26774
+Brooklyn,2014,25932
+Brooklyn,2013,25289
+Brooklyn,2012,24649
+Brooklyn,2011,24398
+Brooklyn,2010,23605
+Brooklyn,2009,22959
