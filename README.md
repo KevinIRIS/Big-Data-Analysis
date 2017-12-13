@@ -2,14 +2,17 @@
 
 This project is developed for NYU CS9223 Big Data Analysis based on NYC Crime Data.
 
-For data preparing:
-cd script/
-bash prepare_work.sh
+_**For data preparing:**_
 
-for cleaning:
-cd script/
-bash clean.sh
+    cd script/
+    bash prepare_work.sh
 
-for analysis:
-cd analysis/
-bash script.sh
+_**for cleaning:**_
+
+    cd script/
+    bash clean.sh
+
+_**for analysis:**_
+
+    cd analysis/
+    bash script.sh
